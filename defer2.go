@@ -8,5 +8,4 @@ func defer2 () {
 	b := 0
 	c:= a/b
 	fmt.Println(c)
-	fmt.Println(a)
 }
